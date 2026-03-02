@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Tze How</title>
+    <link>https://tze.how</link>
+    <description>Long-form essays on reliability, systems, and software practice.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 GMT</lastBuildDate>
+    <generator>site-v2 feed generator</generator>
+    <item>
+      <title>SRS Calculations</title>
+      <link>https://tze.how/blog/srs-calculations</link>
+      <guid isPermaLink="true">https://tze.how/blog/srs-calculations</guid>
+      <description>Is Singapore&apos;s SRS worth it? I ran the numbers - and the answer surprised me.</description>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Homelab Motivations</title>
+      <link>https://tze.how/blog/homelab-motivations</link>
+      <guid isPermaLink="true">https://tze.how/blog/homelab-motivations</guid>
+      <description>Thoughts on why I spend so much time messing with my own homelab</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Open Heart Surgery</title>
+      <link>https://tze.how/blog/my-open-heart-surgery</link>
+      <guid isPermaLink="true">https://tze.how/blog/my-open-heart-surgery</guid>
+      <description>My trials and tribulations managing my bicuspid aortic valve over the past five years</description>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Optimizing my BAVD Documentation</title>
+      <link>https://tze.how/blog/ricing-my-bavd-research</link>
+      <guid isPermaLink="true">https://tze.how/blog/ricing-my-bavd-research</guid>
+      <description>Optimizing my research and documentation process when tracking my Bicuspid Aortic Valve</description>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tailscale Golinks</title>
+      <link>https://tze.how/blog/tailscale-golinks</link>
+      <guid isPermaLink="true">https://tze.how/blog/tailscale-golinks</guid>
+      <description>Tailscale golinks - quick win for lots of convenience!</description>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SUTD-MIT Global Leadership Programme</title>
+      <link>https://tze.how/blog/sutd-mit-global-leadership-programme</link>
+      <guid isPermaLink="true">https://tze.how/blog/sutd-mit-global-leadership-programme</guid>
+      <description>Designing and building a hydrofoil electric boat from scratch in ten weeks during the SUTD-MIT exchange at MIT.</description>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gems on the Internet</title>
+      <link>https://tze.how/blog/gems-on-the-internet</link>
+      <guid isPermaLink="true">https://tze.how/blog/gems-on-the-internet</guid>
+      <description>Documenting some of my finds across the internet, with various overlaps with my interests. Not including many of the more mainstream ones: Slate Star Codex (Now Astral Codex Ten on Substack). The blog of an essayist/psychiatrist, who talks about almost any topic under the sun. I often cite his articles ...</description>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Fed and the Coronavirus</title>
+      <link>https://tze.how/blog/market-databases</link>
+      <guid isPermaLink="true">https://tze.how/blog/market-databases</guid>
+      <description>Some analysis of the chaos in the markets over the past two months - watching interplay between asset classes along with relevant snippets from Reddit submissions.</description>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Car Racing Adventures</title>
+      <link>https://tze.how/blog/openai-car-racing-adventures</link>
+      <guid isPermaLink="true">https://tze.how/blog/openai-car-racing-adventures</guid>
+      <description>An overview of our Imitation Learning approach towards creating a model to play the OpenAI-CarRacingv0 environment.</description>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Setting up of i3wm [Ricing]</title>
+      <link>https://tze.how/blog/setting-up-of-i3wm-ricing</link>
+      <guid isPermaLink="true">https://tze.how/blog/setting-up-of-i3wm-ricing</guid>
+      <description>Setup process for i3wm, shortcuts, useful tools, and the like</description>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Project Jessica</title>
+      <link>https://tze.how/blog/project-jessica</link>
+      <guid isPermaLink="true">https://tze.how/blog/project-jessica</guid>
+      <description>Overview of Project Jessica</description>
+      <pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ethereum Address Analyzer</title>
+      <link>https://tze.how/blog/ethereum-address-analyzer</link>
+      <guid isPermaLink="true">https://tze.how/blog/ethereum-address-analyzer</guid>
+      <description>What I was up to in the summer of 2018</description>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
